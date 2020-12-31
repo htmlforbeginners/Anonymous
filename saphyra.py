@@ -2,7 +2,7 @@
 # Saphyra - DDoS Tool
 #
 # The DDoS Protocol is the most massive type of attack
-# This tool can tangodown nasa and more gov websites
+# This tool can take down nasa and other gov websites
 # 
 #
 # author : Anonymous , version 1.0
